@@ -1,0 +1,31 @@
+h1 {
+	color: red;
+}
+h2{
+	color:black;
+}
+h3{
+	color:black;
+}
+
+span{
+	font-size: 100px;
+
+}
+
+div{
+	background-color: pink;
+	height: 200px;
+	width: 500px;
+	float: left;
+}
+
+.one {
+	background-color: grey;
+}
+.two {
+	height: 500px;
+}
+#three {
+	width:100px;
+}
